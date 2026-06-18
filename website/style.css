@@ -1,0 +1,110 @@
+body{
+  font-family: Verdana;
+  font-size: 2em;
+  text-align: center;
+
+  button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border: none;
+    background-color: rgb(95, 95, 188);
+  }
+  button:hover{
+    background-color: rgb(39, 39, 129);
+  }
+  button:active{
+    background-color: blue;
+  }
+  input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+  }
+  #diceResult{
+    margin: 25px;
+  }
+  #diceImages img{
+    width: 150px;
+    margin: 5px;
+  }
+
+ 
+
+  /* #countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Helvetica;
+  }
+  #myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+  }
+
+  #myLabel{
+    font-size: 3em;
+  
+  }
+
+  .myLabels{
+    font-size:  3em;
+  }
+
+  /* #btnContainer{
+    text-align: center;
+  } */
+  /* .buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: hsl(240, 58%, 39%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+
+  }
+  .buttons:hover{
+    background-color: hsl(240, 48%, 20%);
+  }
+
+
+
+  #ludo{
+    display: grid;
+    grid-template-columns: auto auto;
+    div{
+      margin: 50px;
+    }
+  }
+  #blue{
+    background-color: blue;
+    /* height: 250px;
+    width: 250px; */
+  }
+  #red{
+    background-color: red;
+
+  }
+  #green{
+    background-color: green;
+
+  }
+  #yellow{
+    background-color: yellow;
+
+  }
+  .place{
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+  .box{
+    background-color: blue;
+    padding:5px;
+    margin:10px;
+    border: 1px solid black;
+  } */ */
+
+}
